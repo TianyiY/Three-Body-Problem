@@ -1,2 +1,3 @@
 # Three-Body-Problem
-Simulate the chaos system
+The classic three body problem
+simulating the trajectories of the three stars
